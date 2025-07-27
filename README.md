@@ -1,1 +1,1 @@
-"Local conflicting line" 
+ This is a test commit.
